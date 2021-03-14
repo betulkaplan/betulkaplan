@@ -6,6 +6,24 @@ I love sharing so you can check out my youtube videos at ... .
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betulkaplan)](https://github.com/anuraghazra/github-readme-stats)
 
+### Hi there 👋, Betül
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://images.unsplash.com/photo-1502691876148-a84978e59af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxhbGx8fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: C / C++ / LD / Siemens S7 / ARM / JS / HTML / CSS
+
+- 🔭 I’m currently working on ARM programming and Industrial Automation 
+- 🌱 I’m currently learning Web Development 
+- 👯 I’m looking to collaborate on any project matching my interests 
+- 🤔 I’m looking for help with JS 
+- 💬 Ask me about KNX, Siemens PLC, C++ 
+- ⚡ Fun fact: Love baking equally eating 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/betulkaplan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bet%C3%BCl-kaplan-81498879//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](http://lifeinworksite.blogspot.com/)  
+
 
 
 <!--
