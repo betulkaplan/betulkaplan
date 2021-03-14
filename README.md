@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Betul from Turkey, and I currently work in Embedded System Design of KNX devices and Industrial Automation projects. I am also attending to an IT training program in FullStack web development area.
+
+I love sharing so you can check out my youtube videos at ... .
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betulkaplan)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **betulkaplan/betulkaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
