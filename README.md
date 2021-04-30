@@ -20,7 +20,7 @@ Skills: C / C++ / LD / Siemens S7 / ARM / JS / HTML / CSS
 - ⚡ Fun fact: Love baking equally eating 
 
 
-[<img src='' alt='github' height='40'>](https://github.com/betulkaplan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bet%C3%BCl-kaplan-81498879//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](http://lifeinworksite.blogspot.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/betulkaplan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bet%C3%BCl-kaplan-81498879//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](http://lifeinworksite.blogspot.com/)  
 
 
 
