@@ -6,7 +6,7 @@ I love sharing so you can check out my youtube videos at ... .
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betulkaplan)](https://github.com/anuraghazra/github-readme-stats)
 
-![I am GitHub Readme Generator's creator](https://images.pexels.com/photos/4316/technology-computer-chips-gigabyte.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/betulkaplan00/detail/background-image/)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
