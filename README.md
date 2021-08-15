@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Betül
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/betulkaplan/betulkaplan/blob/main/Linkedin_banner.JPG?raw=true)
 
 I am a fullstack developer. 
 
@@ -18,5 +17,4 @@ Skills: REACT / JS / DJANGO / PostgreSQL / Rest
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=betulkaplan&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=betulkaplan)  
-
 
