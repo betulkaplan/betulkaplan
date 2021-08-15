@@ -1,4 +1,7 @@
 ### Hi there 👋, my name is Betül
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 ![](https://github.com/betulkaplan/betulkaplan/blob/main/Linkedin_banner.JPG?raw=true)
 
 I am a fullstack developer. 
